@@ -94,7 +94,7 @@
 }
 /*grid*/
 .ba-grid{
-    margin: -44px;
+    margin-left: -44px;
 }
 .ba-grid+.ba-grid{
 	margin-top: 29px;
