@@ -229,6 +229,7 @@ input[type="button"]:hover,
 }
 .ba-grid-feature{
 	margin-right: 0;
+    margin-left: 0;
 }
 .ba-grid-feature>[class*="ba-width"]{
 	padding-left: 0;
